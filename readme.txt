@@ -29,5 +29,5 @@ Admin
 user: admin
 pass: admin123
 
-****** www.campcodes.com ******
-Subcribe to our Youtube Channel **** CampCodes ****
+******  ******
+Subcribe to our Youtube Channel **** The Yash Anyket Show ****
